@@ -1,0 +1,3 @@
+# Exercise: Optimizing - holiday gifts
+
+Your online gift store has one million users that each listed a gift on a wishlist. You have the prices for each of these gifts stored in gift_costs.txt. For the holidays, you're going to give each customer their wishlist gift for free if the cost is under $25. Now, you want to calculate the total cost of all gifts under $25 to see how much you'd spend on free gifts.
