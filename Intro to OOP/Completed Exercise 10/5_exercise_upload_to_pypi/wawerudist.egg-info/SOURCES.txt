@@ -1,0 +1,14 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+wawerudist/Binomialdistribution.py
+wawerudist/Gaussiandistribution.py
+wawerudist/Generaldistribution.py
+wawerudist/__init__.py
+wawerudist.egg-info/PKG-INFO
+wawerudist.egg-info/SOURCES.txt
+wawerudist.egg-info/dependency_links.txt
+wawerudist.egg-info/not-zip-safe
+wawerudist.egg-info/requires.txt
+wawerudist.egg-info/top_level.txt
